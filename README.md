@@ -8,10 +8,22 @@ We assign no mystical or esoteric meaning to numbers. Simply compare words shari
 
 The Number Code
 
- 1  2  3  4  5  6  7  8  9
- A  B  C  D  E  F  G  H  I
- J  K  L  M  N  O  P  Q  R
- S  T  U  V  W  X  Y  Z
+
+<table>
+<tr>
+<th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th>
+</tr>
+<tr>
+<td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td>
+</tr>
+<tr>
+<td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td>
+</tr>
+<tr>
+<td>S</td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td><td></td>
+</tr>
+</table>
+
 
 How to Use
 
